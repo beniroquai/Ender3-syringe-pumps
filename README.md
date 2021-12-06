@@ -23,6 +23,12 @@ All the 3D designs are in the /hardware folder.
 + /software is a folder with the instruction on how to use the pumps via gcode 
 + /videos are few video of the pumps in action
 
+## Modification
+We don't rely on a full ender set, but used off-the-shelf parts
+
+<a href="#icon02" name="icon02"><img src="./FIGURES/Enderslide.PNG" width="40"><img src="./IMAGES/P.png" width="40"></a>
+
+
 [1]: https://github.com/Vsaggiomo/Ender3-syringe-pumps/blob/main/Figures/fig1.jpg
 [2]: https://chemrxiv.org/articles/preprint/Ender3_3D_Printer_Kit_Transformed_into_Open_Programmable_Syringe_Pump_Set/14718183 
 [3]: https://doi.org/10.1016/j.ohx.2021.e00219 
