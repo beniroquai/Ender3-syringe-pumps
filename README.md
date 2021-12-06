@@ -26,7 +26,7 @@ All the 3D designs are in the /hardware folder.
 ## Modification
 We don't rely on a full ender set, but used off-the-shelf parts
 
-<a href="#icon02" name="icon02"><img src="./Figures/Enderslide.PNG" width="40"><img src="./IMAGES/P.png" width="40"></a>
+<img src="./Figures/Enderslide.PNG" width="400"></a>
 
 
 [1]: https://github.com/Vsaggiomo/Ender3-syringe-pumps/blob/main/Figures/fig1.jpg
